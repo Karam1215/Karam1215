@@ -24,7 +24,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,linux,postgres,bash,html,css,react,postman,python,docker,git,H2" />
+    <img src="https://skillicons.dev/icons?i=java,spring,linux,postgres,bash,html,css,react,postman,python,docker,git,h2" />
 </div>
 <br/>
 <hr/>
